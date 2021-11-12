@@ -1,6 +1,8 @@
 # some information about you
 name: "Yana Kutsenko"
 nickname: "Yana"
+image: "images/author/yana1.jpg"
+
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
 
@@ -10,7 +12,4 @@ contactInfo:
 
 # some summary about what you do
 summary:
-  - I am an Engish Teacher
-  - I teach General English
-  - I teach Business English
-  - I do ZNO preparation
+  - I teach General and Business English
