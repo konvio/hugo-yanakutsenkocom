@@ -1,0 +1,62 @@
+# section information
+section:
+  name: Experience
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Freelance
+    location: Remote
+  positions:
+  - designation: English Teacher
+    start: Apr 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Tought General and Business English students from Pre-Intermidiate to Advanced.
+    - Used the latest textbook series (English File, Speakout, On Screen, Outcomes, Keynote and others).
+    - Helped students to keep up their practice by providing additional materials (eg. videos, movies, articles, books).
+    - Prepared students fro ZNO examination from scratch.
+    - Visited multiple workshops on methodology, teaching and approaches.
+    - Did lots of translation and proofreading of websites, agreements and meetings.
+
+- company:
+    name: Golden Dimension
+    url: "https://www.golden-dimension.com"
+    location: Kyiv, Ukraine
+  positions:
+  - designation: Corporate Engish Teacher
+    start: Jun 2021
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Teaching and designing learning program to levels from Intermediate to Proficient.
+    - Customizing materials so that it meets the needs of students.
+    - Teaching designers, project managers and developers.
+
+- company:
+    name: SpeakWell
+    url: "https://speakwell.ua/"
+    location: Kyiv, Ukraine
+  positions:
+  - designation: Engish Teacher
+    start: Sep 2019
+    end: Nov 2020
+    responsibilities:
+    - Taught 9 different groups from Elementary to Advanced from soup to nuts.
+    - Used Communicative Approach, games and quizzes in my classes.
+    - Worked with one-to-one, pair and group classes.
+    - Paid careful attention to each student.
+    - Used Quizlet, Kahoot and Realia in lessons.
+    - Worked with teenagers.
+    - Held Grammar Clubs and Cinema Clubs.
+    - Substituted other teachers.
+    - Held Corporate Classes.

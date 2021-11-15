@@ -1,0 +1,36 @@
+# section information
+section:
+  name: Why Me?
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Modernity
+  summary: "I am using the latest approaches, methods and textbooks for learning."
+
+- name: Technologies
+  summary: "I am using the newest websites, apps and platforms for your learning."
+
+- name: Adaptability
+  summary: "I am able to cater for each student based on interests, lifestyle and mindset."
+
+- name: Diversity
+  summary: "I am constantly coming up with unusual games and new activities that I can integrate."
+
+- name: Open-mindedness
+  summary: "I am interested in a lot of different fields of life starting from healty eating to personal finance so there is always something to chat with me as I am a bright personality."
+
+- name: Accent
+  summary: "I can copy american and british accents and I sound like a native."
+
+- name: Detail-orientedness
+  summary: "I pay attention to every your mistake and correct it properly."
+
+- name: Huge Experience
+  summary: "I have worked with PMs, QA Engineers, Software Engineers, Lawyers, Accountants and many others."

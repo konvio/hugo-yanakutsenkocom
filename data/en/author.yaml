@@ -1,7 +1,7 @@
 # some information about you
 name: "Yana Kutsenko"
 nickname: "Yana"
-image: "images/author/yana1.jpg"
+image: "images/author/yana.jpg"
 
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
