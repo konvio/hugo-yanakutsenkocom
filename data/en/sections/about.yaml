@@ -13,7 +13,7 @@ designation: English Teacher
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate, energetic, fun and open-minded creative english teacher.'
+summary: 'I am a well-balanced, easy-going, fun and creative english teacher.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -25,11 +25,11 @@ socialLinks:
 
 - name: Telegram
   icon: "fab fa-telegram"
-  url: "#"
+  url: "https://t.me/kutsenkoyana"
 
 - name: Instagram
   icon: "fab fa-instagram"
-  url: "#"
+  url: "https://www.instagram.com/kutsenko.yana/"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
