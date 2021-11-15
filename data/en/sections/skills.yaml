@@ -12,10 +12,10 @@ section:
 # Give a summary of you each skill in the summary section.
 skills:
 - name: Modernity
-  summary: "I am using the latest approaches, methods and textbooks for learning."
+  summary: "I am using the latest approaches, methods and textbooks."
 
 - name: Technologies
-  summary: "I am using the newest websites, apps and platforms for your learning."
+  summary: "I am using the newest websites, apps and platforms for learning."
 
 - name: Adaptability
   summary: "I am able to cater for each student based on interests, lifestyle and mindset."
