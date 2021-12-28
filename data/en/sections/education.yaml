@@ -1,0 +1,38 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  hideTitle: false
+
+degrees:
+- name: Bachelor's Degree in Translation and Interpretation from English and German Languages
+  icon: fa-graduation-cap
+  timeframe: 2017-2021
+  institution:
+    name: Taras Shevchenko National University of Kyiv
+    url: "https://knu.ua/"
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    collapseAfter: 5
+    courses:
+    - name: Translation of International Documents
+    - name: Interpretation of Speeches
+    - name: Consecutive and Simultaneous Interpretation
+    - name: Specialized English (Law, Economics, Banking, Politics)
+    - name: Stylistics
+    - name: Phonetics
+    - name: Comparative Grammar of English and Ukrainian
+    - name: British and American Cultural Studies
+
+- name: Secondary School Certificate
+  icon: fa-school
+  timeframe: 2007-2017
+  institution:
+    name: Specialized School for Learning Languages №112
+    url: "https://www.sch112.kiev.ua/"
+
