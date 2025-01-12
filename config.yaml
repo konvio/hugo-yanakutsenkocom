@@ -16,7 +16,7 @@ params:
     favicon: images/site/logo.png
   
   # GitHub repo URL of your site
-  gitRepo: https://github.com/konvio/yana-hugo-site
+  gitRepo: https://github.com/konvio/hugo-yanakutsenkocom
   gitBranch: main
 
   # specify whether you want to write some blog posts or not
